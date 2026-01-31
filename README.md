@@ -26,5 +26,8 @@ This project is inspired by real-world healthcare analytics use cases and uses p
 Publicly available healthcare-related feedback and complaint text datasets (de-identified).
 
 ## Status
-Project setup complete. Exploratory text analysis in progress.
+- Phase 1: Exploratory Text Analysis ✅
+- Phase 2: Sentiment Modeling ✅
+- Phase 3: Topic Modeling ✅
+
 
